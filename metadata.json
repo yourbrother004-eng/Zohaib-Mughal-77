@@ -1,0 +1,7 @@
+{
+  "name": "ZMW Portfolio - Senior Full Stack Developer",
+  "description": "A high-performance, modern portfolio for a Senior Designer and Full Stack Developer featuring animated components, dark mode, and a responsive layout.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
